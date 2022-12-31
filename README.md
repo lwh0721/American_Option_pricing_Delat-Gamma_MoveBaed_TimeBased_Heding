@@ -1,4 +1,4 @@
-Projects of Pricing Theory (stochastic analysis and financial theory as it applies to financial derivative products). 
+Projects of Pricing Theory (stochastic analysis and financial theory as it applies to financial derivative products) (2022 Fall). 
 
 **Project 1**: Pricng American Option (Binomial Tree) with stochastic underlying asset. Exercise Boundary, Hedging Strategy, Profit and Loss, Distribution of the time at which you exercise the option. Asset price Simulation.
 
