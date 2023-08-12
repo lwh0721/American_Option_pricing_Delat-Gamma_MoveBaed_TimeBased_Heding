@@ -8,4 +8,4 @@ Derive two probability measures. One is Q, refers to the martingale measure indu
 
 
 
-**Project 2**: Delta-Gamma Hedging in discrete time within the Black-Scholes model. Sold an at-the-money 1/4 year put written on the underlying asset and to hedge. Hedge with both the Move-Based and the Time-Based by Delta and Delta-Gamaa hedging strategy repectively.
+**Project 2**: Delta-Gamma Hedging in discrete time within the Black-Scholes model. Sold an at-the-money 1/4 year put written on the underlying asset and to hedge. Hedge with both the Move-Based and the Time-Based by Delta and Delta-Gamma hedging strategy repectively.
